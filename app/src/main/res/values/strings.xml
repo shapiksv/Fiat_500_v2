@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fiat_500</string>
+    <string name="leftLight">Левый поворотник</string>
+    <string name="rightLight">Правый поворотник</string>
+    <string name="frontLight">Габаритные огни</string>
+    <string name="crashSignal">Аварийка</string>
+    <string name="start_stop">Start/Stop</string>
+    <string name="signaling">Сигнализация</string>
+</resources>
